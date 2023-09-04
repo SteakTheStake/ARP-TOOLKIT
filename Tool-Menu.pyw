@@ -28,7 +28,7 @@ except Exception as e:
 
 # List of Tools
 tools = [
-    {"name": "CTM ToolKit", "script": "data/CTM-PROP.pyw"},
+    {"name": "CTM ToolKit", "script": "data/CTM.pyw"},
     {"name": "Image Resize ToolKit", "script": "data/RESIZE.pyw"},
     # Add more tools here as dictionaries with 'name' and 'script' keys
 ]
